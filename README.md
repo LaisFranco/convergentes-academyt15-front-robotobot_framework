@@ -76,3 +76,10 @@ automacao_robot/
 
 ### requirements.txt ###
 - O `requirements.txt` é fundamental para a instalação das dependências do projeto, garantindo que qualquer pessoa possa configurar o mesmo ambiente de desenvolvimento de forma rápida e fácil.
+
+### autores ###
+Adriana Bicalho
+Angélica Schiavon
+Laís Oliveira
+Luana Araújo
+Melissa Arantes
