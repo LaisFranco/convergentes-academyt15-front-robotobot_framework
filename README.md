@@ -88,8 +88,8 @@ automacao_robot/
 
 
 ### autores ###
-Adriana Bicalho
-Angélica Schiavon
-Laís Oliveira
-Luana Araújo
-Melissa Arantes
+- Adriana Bicalho
+- Angélica Schiavon
+- Laís Oliveira
+- Luana Araújo
+- Melissa Arantes
