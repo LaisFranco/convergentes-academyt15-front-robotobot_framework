@@ -51,16 +51,16 @@ automacao_robot/
 |-- requirements.txt
 ```
 
-### fixtures ###
+### Fixtures ###
 - A pasta tem como objetivo armazenar configurações e dados fundamentais para os testes, como recursos reutilizáveis que garantem a configuração dos ambientes e dados de teste.
 
-### logs ###
+### Logs ###
 - A pasta tem como objetivo armazenar os reports da execução dos testes.
 
-### resources ###
+### Resources ###
 - A pasta contêm definições de palavras-chave, variáveis e configurações reutilizáveis nos testes.
 
-### tests ###
+### Tests ###
 - A pasta tem como objetivo armazenar os arquivos de testes API e Web do projeto
 
 ### .gitignore ###
@@ -87,7 +87,7 @@ automacao_robot/
     ```
 
 
-### autores ###
+### QA's - Autores ###
 - Adriana Bicalho
 - Angélica Schiavon
 - Laís Oliveira
